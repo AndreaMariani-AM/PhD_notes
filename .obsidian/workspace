@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "fa0361587306440e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfe956ca901582f4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2.00_General_notes-Comp_Bio/2.06_Unix.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d78cf76979cbea5",
+    "type": "split",
+    "children": [
+      {
+        "id": "21af23c1f6eccf74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5fc1c52f7380f2d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8ddf9e5653c926d5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f5a5f7a4777fe06b",
+    "type": "split",
+    "children": [
+      {
+        "id": "86e82d84011e722a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c284f578d6833c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2.00_General_notes-Comp_Bio/2.06_Unix.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cfe956ca901582f4",
+  "lastOpenFiles": [
+    "2.00_General_notes-Comp_Bio/2.06_Unix.md",
+    "2.00_General_notes-Comp_Bio/2.05_Statistics.md",
+    "2.00_General_notes-Comp_Bio/README.md",
+    "2.00_General_notes-Comp_Bio/2.04_Softwares.md",
+    "2.00_General_notes-Comp_Bio/2.03_OMICS.md",
+    "2.00_General_notes-Comp_Bio/2.01_Definitions.md",
+    "0.10_Templates/0.12_template_notes.md",
+    "1.00_Papers/README.md",
+    "1.00_Papers/Untitled 1.md",
+    "0.00_References/Untitled.md"
+  ]
+}
