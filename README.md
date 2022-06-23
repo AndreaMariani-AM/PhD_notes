@@ -13,7 +13,7 @@ In this directory i store various templates
 - *0.11_Template_research_paper* : contains a template for notes to be used in *0.00_References/0.01_Inbox* or *0.02_Reference_meta*.
 - *0.12_Template_notes* : contains a template for general notes, ideally for MOCs on broader subjects or for *2.00_General_notes-Comp_Bio*.
 
-## 1.00_Papers_PDF
+## 1.00_Papers_PDF (it's not tracked anymore)
 In this directory and subdirectories i store the various PDF files to be embedded into notes
 
 - *1.01_Inbox* : contains the PDF files that are yet to be embedded into notes. They are the corresponding PDFs of notes in *0.00_References/0.01_Inbox*. Once the note is drafted, moved it to the related subfolder based on the context.
