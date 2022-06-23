@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7a0120cbdb9bcf18",
+        "id": "876edb478516d295",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2.00_General_notes-Comp_Bio/2.01_Definitions/Normalization.md",
+            "file": "0.00_References/0.01_Inbox/Novakovsky2022.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.00_General_notes-Comp_Bio/2.01_Definitions/Normalization.md",
+                "file": "0.00_References/0.01_Inbox/Novakovsky2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7a0120cbdb9bcf18",
+  "active": "876edb478516d295",
   "lastOpenFiles": [
-    "2.00_General_notes-Comp_Bio/2.01_Definitions/Normalization.md",
-    "2.00_General_notes-Comp_Bio/2.01_Definitions/change_me.md",
-    "2.00_General_notes-Comp_Bio/2.01_Definitions/Logarithm.md",
-    "2.00_General_notes-Comp_Bio/2.01_Definitions/Fold_change.md",
-    "2.00_General_notes-Comp_Bio/Untitled.md",
+    "0.00_References/0.01_Inbox/Novakovsky2022.md",
+    "0.10_Templates/0.11_Template_research_paper.md.md",
+    "0.10_Templates/0.12_Template_notes.md",
     "2.00_General_notes-Comp_Bio/2.01_Definitions/Convolutional_neural_network(CNNs).md",
-    "2.00_General_notes-Comp_Bio/2.06_Unix/2.06_Unix.md",
-    "2.00_General_notes-Comp_Bio/2.05_Statistics/Other.md",
-    "2.00_General_notes-Comp_Bio/2.05_Statistics/change_me.md",
-    "2.00_General_notes-Comp_Bio/2.05_Statistics/Statistical_tests.md"
+    "0.00_References/0.01_Inbox/Kreibich2022.md",
+    "2.00_General_notes-Comp_Bio/Chromatin_Profiling.md",
+    "0.00_References/0.01_Inbox/Bartosovic2021.md",
+    "0.00_References/0.01_Inbox/Bartosovic2022.md",
+    "2.00_General_notes-Comp_Bio/2.04_Softwares/Nextflow.md",
+    "2.00_General_notes-Comp_Bio/2.03_OMICS/change_me.md"
   ]
 }
