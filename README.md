@@ -24,11 +24,11 @@ In this folder i store various notes related to Computational Bio and Bioinforma
 
 # To Do List
 
-- [ ] Set up MOCs
-- [ ] Reformat notes in 2.00_General_notes-Comp_Bio, make
-- [ ] Start writing notes
-- [ ] figure out if i need to transfer some stuff from oneNote
-- [ ] Learn how to use tags
+- [x] Set up MOCs
+- [x] Reformat notes in 2.00_General_notes-Comp_Bio, make
+- [x] Start writing notes
+- [x] figure out if i need to transfer some stuff from oneNote
+- [x] Learn how to use tags
 
 
 
