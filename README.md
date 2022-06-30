@@ -20,18 +20,6 @@ In this directory and subdirectories i store the various PDF files to be embedde
 - *1.0x_Field* : all of these subdierectories contain PDF files that are embedded into a note that's located in *0.00_References/0.02_Reference_meta*
 
 ## 2.00_General_notes-Comp_Bio
-In this folder i store various notes related to Computational Bio and Bioinformatics on different subjects. Folders are: *2.01_Definitions* *2.02_Miscellaneous* *2.03_OMICS* *2.04_Softwares* *2.05_Statistics* *2.06_Unix*
-
-# To Do List
-
-- [x] Set up MOCs
-- [x] Reformat notes in 2.00_General_notes-Comp_Bio, make
-- [x] Start writing notes
-- [x] figure out if i need to transfer some stuff from oneNote
-- [x] Learn how to use tags
+In this folder i store various notes related to Computational Bio and Bioinformatics on different subjects. Folders are: *2.01_Definitions* *2.02_Miscellaneous* *2.03_OMICS* *2.04_Softwares* *2.05_Statistics* *2.06_Unix* *2.07_Math* *2.08_NeTechnologies*
 
 
-
-#### MOC (map of content) notes
-
-Kinda like a summary page for a broad topic, like in Chromatin folder i can put "H2AK119Ub1 MOC" and then link to that MOC every thing from the papers that's interesting
