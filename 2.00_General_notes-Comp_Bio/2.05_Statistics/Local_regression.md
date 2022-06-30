@@ -12,6 +12,7 @@ A good resource is the [book](https://rafalab.github.io/pages/754/section-03.pdf
 ## Notes
 -  Used to model a relation between a predictor variable and a response variable. A simple fixed model would be:
 $Yi = f(x) + \epsilon i$
+where $f(x)$ is an unknown function and $\epsilon i$ is an error term
 
 ## Questions
 - Item
