@@ -15,6 +15,7 @@ Source: The original source of the document can be found [here](https://www.bior
 
 ## Summary
 
+
 ## Notes
 
 ## Reference to chek out

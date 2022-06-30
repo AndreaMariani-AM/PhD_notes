@@ -4,12 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "876edb478516d295",
+        "id": "1aa4e76bbdb17564",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "98afbd9cca9b1694",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0.00_References/0.01_Inbox/Novakovsky2022.md",
+            "file": "2.00_General_notes-Comp_Bio/2.05_Statistics/Local_regression.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "2eea05e4fda68ea7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "0.00_References/0.01_Inbox/Blanco2021.md",
             "mode": "source",
             "source": false
           }
@@ -44,7 +64,7 @@
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -69,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.00_References/0.01_Inbox/Novakovsky2022.md",
+                "file": "2.00_General_notes-Comp_Bio/2.05_Statistics/Local_regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +107,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "876edb478516d295",
+  "active": "98afbd9cca9b1694",
   "lastOpenFiles": [
-    "0.00_References/0.01_Inbox/Novakovsky2022.md",
-    "0.10_Templates/0.11_Template_research_paper.md.md",
-    "0.10_Templates/0.12_Template_notes.md",
-    "2.00_General_notes-Comp_Bio/2.01_Definitions/Convolutional_neural_network(CNNs).md",
-    "0.00_References/0.01_Inbox/Kreibich2022.md",
-    "2.00_General_notes-Comp_Bio/Chromatin_Profiling.md",
-    "0.00_References/0.01_Inbox/Bartosovic2021.md",
-    "0.00_References/0.01_Inbox/Bartosovic2022.md",
-    "2.00_General_notes-Comp_Bio/2.04_Softwares/Nextflow.md",
-    "2.00_General_notes-Comp_Bio/2.03_OMICS/change_me.md"
+    "2.00_General_notes-Comp_Bio/2.05_Statistics/Local_regression.md",
+    "0.00_References/0.01_Inbox/Blanco2021.md",
+    "2.00_General_notes-Comp_Bio/2.04_Softwares/SRA_GEO.md",
+    "2.00_General_notes-Comp_Bio/2.04_Softwares/Aligners.md",
+    "0.00_References/0.01_Inbox/Bonhoure2014.md",
+    "2.00_General_notes-Comp_Bio/2.04_Softwares/Deeptools.md",
+    "2.00_General_notes-Comp_Bio/2.07_Math/Vectors.md",
+    "2.00_General_notes-Comp_Bio/2.07_Math/Matrices.md",
+    "2.00_General_notes-Comp_Bio/2.07_Math/Linear_algebra_lesson.md",
+    "2.00_General_notes-Comp_Bio/2.05_Statistics/Machine_Learning_Statistics.md"
   ]
 }

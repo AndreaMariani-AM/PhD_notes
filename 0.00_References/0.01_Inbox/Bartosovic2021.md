@@ -1,15 +1,15 @@
 # Bartosovic2021
-Full title: **
-Authors: ** (first); ** (last)
-Year: **
-Topic: 
-Journal: **
-DOI: 
+Full title: *Single-cell CUT&Tag profiles histone modifications and transcription factors in complex tissues*
+Authors: *Marek Bartosovic* (first); *Goncalo Castelo-branco* (last)
+Year: *2021*
+Topic: #SingleCell #ComputatinalBiology #CUTandTag #Histone #Chromatin
+Journal: *Nature Biotechnology*
+DOI: https://doi.org/10.1038/s41587-021-00869-9
 Date: 2022-06-21
 
 ---
 
-Source: The original source of the document can be found [here]()
+Source: The original source of the document can be found [here](https://www.nature.com/articles/s41587-021-00869-9)
 
 ---
 
@@ -27,6 +27,6 @@ Source: The original source of the document can be found [here]()
 ```
 
 ## PDF Preview
-![[]]
+![[Single-cell CUT&Tag profiles histone modifications and transcription factors in complex tissues.pdf]]
 
 
