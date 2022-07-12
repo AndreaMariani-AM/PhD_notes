@@ -23,7 +23,7 @@ This is a collection of notes for the meeting with diego where we can address ho
 
 
 ## Questions for Dani
-- Have you ever checked number of dm6? is it enough? 
+- Have you ever checked number of dm6?
 
 
 

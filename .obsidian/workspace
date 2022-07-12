@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes_day_2_EpyStem.md",
+            "file": "2.00_General_notes-Comp_Bio/2.02_Miscellaneous/Notes_day_1_EpyStem.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes_day_2_EpyStem.md",
+                "file": "2.00_General_notes-Comp_Bio/2.02_Miscellaneous/Notes_day_1_EpyStem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "b85810a2329621c5",
   "lastOpenFiles": [
-    "Notes_day_2_EpyStem.md",
-    "Notes_day_1_EpyStem.md",
+    "2.00_General_notes-Comp_Bio/2.02_Miscellaneous/Notes_day_1_EpyStem.md",
+    "2.00_General_notes-Comp_Bio/2.02_Miscellaneous/Notes_alessandro_gardini.md",
+    "2.00_General_notes-Comp_Bio/2.03_OMICS/Normalization_problem_Spikein_CHIP.md",
+    "0.00_References/0.02_References_meta/Blanco2021.md",
+    "2.00_General_notes-Comp_Bio/2.02_Miscellaneous/Notes_day_2_EpyStem.md",
     "2.00_General_notes-Comp_Bio/2.05_Statistics/Distributions.md",
     "2.00_General_notes-Comp_Bio/2.05_Statistics/Statistical_tests.md",
     "2.00_General_notes-Comp_Bio/2.05_Statistics/Other.md",
     "2.00_General_notes-Comp_Bio/2.05_Statistics/k-nearest-neighbor.md",
-    "2.00_General_notes-Comp_Bio/2.04_Softwares/Aligners.md",
-    "2.00_General_notes-Comp_Bio/2.03_OMICS/Normalization_Spikein_RNAseq.md",
-    "2.00_General_notes-Comp_Bio/2.03_OMICS/Normalization_problem_Spikein_CHIP.md",
-    "2.00_General_notes-Comp_Bio/2.03_OMICS/change_me.md"
+    "2.00_General_notes-Comp_Bio/2.04_Softwares/Aligners.md"
   ]
 }

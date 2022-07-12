@@ -23,7 +23,7 @@ ChIPseq is inherently semi-quantitative (relative occupancy of a factor in a loc
 - [[Guertin2018]] proposed a new method using a liner local regression and *Blanco et al* exploit their idea
 - *Advantages* they propose:
 	- Normalizes ChIPseq signal over the complete genome
-	- Minimize the influence of background regions, though dominating over the total number of reads, when computing a scaling factor.
+	- Minimize the influence of background regions, which dominates over the total number of reads, when computing a scaling factor.
 	- It's not applied uniformely, instead, it's applied increasingly and gradually from the backgrounf to positive ChIP signal regions.
 - They advise to have at least *1M* of spike-in reads in the final steps and *2-5%* of the experimental genome. Also different ratios of mixtures depending on different conditions.
 
