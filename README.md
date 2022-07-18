@@ -17,7 +17,7 @@ In this directory i store various templates
 In this directory and subdirectory i store the index (00_Index_papers) of the papers that have been read and taken notes on. Divided by topics the index is linked back to its original note. There's also a section *ADD REFERENCE* that can be used as an inbox for papers to read.
 
 ## 2.00_General_notes-Comp_Bio
-In this folder i store various notes related to Computational Bio and Bioinformatics on different subjects. Folders are: 
+In this folder i store various notes related to Computational Bio and Bioinformatics on different subjects. Folders are:   
 	- *2.01_Definitions*  
 	- *2.02_Miscellaneous*  
 	- *2.03_OMICS*  
