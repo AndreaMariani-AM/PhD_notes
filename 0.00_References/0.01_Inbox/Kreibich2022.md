@@ -27,7 +27,5 @@ Source: The original source of the document can be found [here](https://www.bior
 
 ```
 
-## PDF Preview
-![[Single molecule multi-omics reveals context-dependent regulation of enhancers by DNA methylation.pdf]]
-
-
+## Index
+[[00_Index_papers#^336932]]

@@ -26,5 +26,5 @@ Source: The original source of the docuement can be found [here](https://pubmed.
 
 ```
 
-## PDF Preview
-![[glmGamPoi- fitting Gamma-Poisson generalized linear models on single cell count data.pdf]]
+## Index
+[[00_Index_papers#^d333d8]]

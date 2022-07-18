@@ -1,5 +1,5 @@
 # Bonhoure2014
-Full title: *# Quantifying ChIP-seq data: a spiking method providing an internal reference for sample-to-sample normalization*
+Full title: *Quantifying ChIP-seq data: a spiking method providing an internal reference for sample-to-sample normalization*
 Authors: ** (first); ** (last)
 Year: **
 Topic: 
@@ -26,7 +26,5 @@ Source: The original source of the document can be found [here]()
 
 ```
 
-## PDF Preview
-![[]]
-
-
+## Index
+[[00_Index_papers#^99cb15]]

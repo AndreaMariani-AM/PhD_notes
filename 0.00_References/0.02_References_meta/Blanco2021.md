@@ -36,7 +36,5 @@ ChIPseq is inherently semi-quantitative (relative occupancy of a factor in a loc
 
 ```
 
-## PDF Preview
-![[SpikChIP- a novel computational methodology to compare multiple ChIP-seq using spike-in chromatin.pdf]]
-
-
+## Index
+[[00_Index_papers#^3355cb]]

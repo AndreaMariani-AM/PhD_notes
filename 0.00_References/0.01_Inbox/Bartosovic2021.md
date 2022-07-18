@@ -26,7 +26,5 @@ Source: The original source of the document can be found [here](https://www.natu
 
 ```
 
-## PDF Preview
-![[Single-cell CUT&Tag profiles histone modifications and transcription factors in complex tissues.pdf]]
-
-
+## Index
+[[00_Index_papers#^92de3a]]

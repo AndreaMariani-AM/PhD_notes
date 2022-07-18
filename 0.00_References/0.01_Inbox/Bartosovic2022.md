@@ -26,7 +26,5 @@ Source: The original source of the document can be found [here]()
 
 ```
 
-## PDF Preview
-![[Multimodal chromatin profiling using nanobody-based single-cell CUT&Tag.pdf]]
-
-
+## Index
+[[00_Index_papers#^31610c]]

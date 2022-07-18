@@ -31,7 +31,5 @@ In the paper is used to predict TF binding and chromatin accessibility states.
 
 ```
 
-## PDF Preview
-![[ExplaiNN- interpretable and transparent neural networks for genomics.pdf]]
-
-
+## Index
+[[00_Index_papers#^7ac9bb]]
