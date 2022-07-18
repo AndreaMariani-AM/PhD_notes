@@ -18,13 +18,13 @@ In this directory and subdirectory i store the index (00_Index_papers) of the pa
 
 ## 2.00_General_notes-Comp_Bio
 In this folder i store various notes related to Computational Bio and Bioinformatics on different subjects. Folders are: 
-	- *2.01_Definitions*
-	- *2.02_Miscellaneous*
-	- *2.03_OMICS*
-	- *2.04_Softwares*
-	- *2.05_Statistics*
-	- *2.06_Unix*
-	- *2.07_Math*
-	- *2.08_NewTechnologies*
+	- *2.01_Definitions*  
+	- *2.02_Miscellaneous*  
+	- *2.03_OMICS*  
+	- *2.04_Softwares*  
+	- *2.05_Statistics*  
+	- *2.06_Unix*  
+	- *2.07_Math*  
+	- *2.08_NewTechnologies*  
 
 
