@@ -9,7 +9,31 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "2.00_General_notes-Comp_Bio/2.04_Softwares/Salmon_RNAseq.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "dd8a5dbbc09a4eb3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "2.00_General_notes-Comp_Bio/2.03_OMICS/HiC.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "6d8c1d5b3edb4850",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "0.00_References/0.01_Inbox/Pal2018.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.00_General_notes-Comp_Bio/2.03_OMICS/HiC.md",
+                "file": "2.00_General_notes-Comp_Bio/2.04_Softwares/Salmon_RNAseq.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +113,15 @@
   },
   "active": "42e1956e0703b582",
   "lastOpenFiles": [
+    "2.00_General_notes-Comp_Bio/2.03_OMICS/Normalization_Spikein_RNAseq.md",
+    "2.00_General_notes-Comp_Bio/2.06_Unix/Miscellaneous.md",
+    "2.00_General_notes-Comp_Bio/2.05_Statistics/Statistical_tests.md",
+    "2.00_General_notes-Comp_Bio/2.05_Statistics/Other.md",
     "2.00_General_notes-Comp_Bio/2.03_OMICS/HiC_pipeline.md",
     "2.00_General_notes-Comp_Bio/2.03_OMICS/HiC.md",
-    "2.00_General_notes-Comp_Bio/2.03_OMICS/change_me.md",
-    "0.00_References/0.01_Inbox/Bartosovic2021.md",
-    "2.00_General_notes-Comp_Bio/2.05_Statistics/Local_regression.md",
-    "2.00_General_notes-Comp_Bio/2.05_Statistics/Linear_Regression.md",
-    "2.00_General_notes-Comp_Bio/2.05_Statistics/Linear_model.md",
-    "2.00_General_notes-Comp_Bio/2.05_Statistics/k-nearest-neighbor.md",
-    "2.00_General_notes-Comp_Bio/2.05_Statistics/Distributions.md",
-    "2.00_General_notes-Comp_Bio/2.05_Statistics/Data_Modelling.md"
+    "2.00_General_notes-Comp_Bio/2.07_Math/Graph_theory.md",
+    "2.00_General_notes-Comp_Bio/2.04_Softwares/Aligners.md",
+    "2.00_General_notes-Comp_Bio/2.01_Definitions/Convolutional_neural_network(CNNs).md",
+    "0.00_References/0.02_References_meta/Novakovsky2022.md"
   ]
 }

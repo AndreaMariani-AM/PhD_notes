@@ -15,7 +15,11 @@ This is a note containing usefull tips and tricks on Unix commands.
 tail -n +2 file.txt > file.stdout
 ```
 
+- find files with the same name and remove them (helpful when snakemake stops and incomplete files are created)
 
+```
+find . -name "*partial_name*" | xargs rm -rf
+```
 ## Questions
 - Item
 

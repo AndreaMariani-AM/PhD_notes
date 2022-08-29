@@ -15,6 +15,8 @@ This index contains all the papers that have been cited or for which notes have 
 - *SpikChIP- a novel computational methodology to compare multiple ChIP-seq using spike-in chromatin*, [[Blanco2021]] ^3355cb
 - *ExplaiNN: interpretable and transparent neural networks for genomics*, [[Novakovsky2022]] ^7ac9bb
 
+## HiC
+- *Hi-C analysis: from data generation to integration*,[[Pal2018]] ^5b675a
 
 ### ADD NOTES
 - *glmGamPoi- fitting Gamma-Poisson generalized linear models on single cell count data*, [[Ahlmann-Eltze2020]] ^d333d8
