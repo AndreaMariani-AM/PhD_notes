@@ -20,6 +20,11 @@ tail -n +2 file.txt > file.stdout
 ```
 find . -name "*partial_name*" | xargs rm -rf
 ```
+- Kill open processes by PID name
+```
+lsof . +d
+kill -9 PID_number
+```
 ## Questions
 - Item
 
