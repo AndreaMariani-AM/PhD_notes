@@ -1,9 +1,5 @@
 # Omics
 
-## RNAseq 
-
-- Changed the transcriptomics field. A cost-effective way to understand gene function is the quantification of the abundance of a transcript. Usually, tho doens't reflect the whole complexity of a functional molecule, number of copies of a gene's product is considered a quantitative measure of gene's activity. RNAseq is used to profile at a single nucleotide resolution, the abundace of tens of thousands of distinct trascripts encoded in the genome. RNAseq provides data that's valuable and contains info on exons and transcripts
-
 ## ChIPseq
 
 - Protein-DNA interactions (transcription factors) and Histones are directly related to how much and in which context genes are expressed. ChIPseq finds locations on the DNA that are bound by proteins or the locations of modified histones.
@@ -29,5 +25,4 @@
 ## ChIA-PET
 
 ## WGBSeq
-
 

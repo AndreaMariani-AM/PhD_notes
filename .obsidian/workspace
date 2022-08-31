@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2.00_General_notes-Comp_Bio/2.04_Softwares/Salmon_RNAseq.md",
+            "file": "2.00_General_notes-Comp_Bio/2.03_OMICS/change_me.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.00_General_notes-Comp_Bio/2.04_Softwares/Salmon_RNAseq.md",
+                "file": "2.00_General_notes-Comp_Bio/2.03_OMICS/change_me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "69441897f16a7f90",
   "lastOpenFiles": [
-    "2.00_General_notes-Comp_Bio/2.04_Softwares/Nextflow.md",
     "2.00_General_notes-Comp_Bio/2.04_Softwares/Salmon_RNAseq.md",
+    "2.00_General_notes-Comp_Bio/2.04_Softwares/Nextflow.md",
     "2.00_General_notes-Comp_Bio/2.03_OMICS/RNAseq.md",
     "2.00_General_notes-Comp_Bio/2.03_OMICS/change_me.md",
     "2.00_General_notes-Comp_Bio/2.03_OMICS/Normalization.md",
