@@ -4,12 +4,48 @@
     "type": "split",
     "children": [
       {
-        "id": "69441897f16a7f90",
+        "id": "ba14bc84acc5e431",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2.00_General_notes-Comp_Bio/2.03_OMICS/change_me.md",
+            "file": "0.00_References/0.01_Inbox/Patro2017.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "3a3a2bb1373c9b84",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2.00_General_notes-Comp_Bio/2.02_Miscellaneous/Meeting_diego.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "0d7b0c7acd88f17d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2.00_General_notes-Comp_Bio/2.03_OMICS/Normalization.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "ac67e35111c286f8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "0.00_References/0.02_References_meta/Blanco2021.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.00_General_notes-Comp_Bio/2.03_OMICS/change_me.md",
+                "file": "0.00_References/0.02_References_meta/Blanco2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +123,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "69441897f16a7f90",
+  "active": "ac67e35111c286f8",
   "lastOpenFiles": [
-    "2.00_General_notes-Comp_Bio/2.04_Softwares/Salmon_RNAseq.md",
-    "2.00_General_notes-Comp_Bio/2.04_Softwares/Nextflow.md",
-    "2.00_General_notes-Comp_Bio/2.03_OMICS/RNAseq.md",
-    "2.00_General_notes-Comp_Bio/2.03_OMICS/change_me.md",
+    "2.00_General_notes-Comp_Bio/2.02_Miscellaneous/Meeting_diego.md",
     "2.00_General_notes-Comp_Bio/2.03_OMICS/Normalization.md",
-    "2.00_General_notes-Comp_Bio/2.03_OMICS/HiC.md",
+    "0.00_References/0.01_Inbox/Patro2017.md",
+    "1.00_Papers_List/00_Index_papers.md",
     "0.00_References/0.01_Inbox/Pal2018.md",
-    "2.00_General_notes-Comp_Bio/2.07_Math/Logarithm.md",
-    "2.00_General_notes-Comp_Bio/2.05_Statistics/Fold_change.md",
-    "2.00_General_notes-Comp_Bio/2.04_Softwares/Convolutional_neural_network(CNNs).md"
+    "0.00_References/0.02_References_meta/Blanco2021.md",
+    "0.00_References/0.01_Inbox/Bartosovic2021.md",
+    "2.00_General_notes-Comp_Bio/2.05_Statistics/Machine_Learning_Statistics.md",
+    "0.00_References/0.02_References_meta/Novakovsky2022.md",
+    "0.00_References/0.02_References_meta/Guertin2018.md"
   ]
 }
