@@ -12,7 +12,7 @@ This repo is free to use by anyone that wants to level up his/hers note taking g
 ```
 git pull git@github.com:AndreaMariani-AM/PhD_notes.git
 ```
- and tell Obsidian to open it up as a Vault.
+ and tell Obsidian to open it up as a Vault. Then, you're good to go.
  
  
 ## 0.00_References
@@ -24,16 +24,16 @@ In this dierctory there's inbox and reference metadata subdirectories
 	This are the actual notes that have to be referenced in later notes.
 
 ## 0.10_Templates
-In this directory i store various templates
+In this directory i'm storing various templates, for now i only have two that seems to work well for pretty much any situation.
 
 - *0.11_Template_research_paper* : contains a template for notes to be used in *0.00_References/0.01_Inbox* or *0.02_Reference_meta*.
 - *0.12_Template_notes* : contains a template for general notes, ideally for MOCs on broader subjects or for *2.00_General_notes-Comp_Bio*.
 
 ## 1.00_Papers_List
-In this directory and subdirectory i store the index (00_Index_papers) of the papers that have been read and taken notes on. Divided by topics the index is linked back to its original note. There's also a section *ADD REFERENCE* that can be used as an inbox for papers to read.
+In this directory and subdirectory i'll store the index (00_Index_papers) of the papers that have been read and taken notes on. Divided in topics, the index is linked back to its original note. There's also a section *ADD REFERENCE* that can be used as an inbox for papers to be read.
 
 ## 2.00_General_notes-Comp_Bio
-In this folder i store various notes related to Computational Bio and Bioinformatics on different subjects. Folders are:   
+This folder is central to the system, and contains notes related to Computational Bio and Bioinformatics on different subjects. Folders are:   
 - *2.01_Definitions*  
 - *2.02_Miscellaneous*  
 - *2.03_OMICS*  
