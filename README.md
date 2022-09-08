@@ -1,4 +1,20 @@
 # Organization of the folders
+
+## Introduction
+This repo is free to use by anyone that wants to level up his/hers note taking game. This is a variation of the Zettelkasten method for note taking that seems to work well w/ Obsidian. I took inspo from [this YT video](https://www.youtube.com/watch?v=4T0q2kQwc2o&t=88s) and then made it my own. Feel free to use it in anyway you'd like. It's hosted here on Github to have it as backup and be ready for a simple pull. 
+
+### Requirements
+
+- Goes without saying that to see the true potential of this system and the linked notes, you have to download Obsidian, [link here](https://obsidian.md/).
+- Customization is left to the user, a good place to start and that works very weel, at least IMO, is the community plugin [Sliding Panes (Andy's Mode)](https://github.com/deathau/sliding-panes-obsidian).
+- Once Obsidian is downloaded and the customization part is done simply
+
+```
+git pull git@github.com:AndreaMariani-AM/PhD_notes.git
+```
+ and tell Obsidian to open it up as a Vault.
+ 
+ 
 ## 0.00_References
 In this dierctory there's inbox and reference metadata subdirectories
 
