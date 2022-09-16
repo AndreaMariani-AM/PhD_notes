@@ -9,7 +9,31 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2.00_General_notes-Comp_Bio/2.02_Miscellaneous/SC_HT_220913.md",
+            "file": "2.00_General_notes-Comp_Bio/2.03_OMICS/Quasi-mapping.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "baa6a44305a7b5ab",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2.00_General_notes-Comp_Bio/2.04_Softwares/Aligners.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "b723c6834085ef95",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2.00_General_notes-Comp_Bio/2.04_Softwares/Salmon_RNAseq.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +45,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2.00_General_notes-Comp_Bio/2.03_OMICS/Quasi-mapping.md",
+            "file": "0.00_References/0.01_Inbox/Srivastava2016.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.00_General_notes-Comp_Bio/2.02_Miscellaneous/SC_HT_220913.md",
+                "file": "0.00_References/0.01_Inbox/Srivastava2016.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,16 +123,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "07f2c30ecf859aa4",
+  "active": "c810c2b47cd59e37",
   "lastOpenFiles": [
     "2.00_General_notes-Comp_Bio/2.03_OMICS/Quasi-mapping.md",
-    "2.00_General_notes-Comp_Bio/2.02_Miscellaneous/SC_HT_220913.md",
-    "2.00_General_notes-Comp_Bio/2.04_Softwares/Aligners.md",
     "2.00_General_notes-Comp_Bio/2.04_Softwares/Salmon_RNAseq.md",
-    "2.00_General_notes-Comp_Bio/2.03_OMICS/Normalization.md",
-    "0.00_References/0.01_Inbox/Kreibich2022.md",
+    "2.00_General_notes-Comp_Bio/2.04_Softwares/Aligners.md",
     "2.00_General_notes-Comp_Bio/2.03_OMICS/RNAseq.md",
     "2.00_General_notes-Comp_Bio/2.03_OMICS/HiC_pipeline.md",
+    "2.00_General_notes-Comp_Bio/2.02_Miscellaneous/SC_HT_220913.md",
+    "2.00_General_notes-Comp_Bio/2.03_OMICS/Normalization.md",
+    "0.00_References/0.01_Inbox/Kreibich2022.md",
     "0.00_References/0.02_References_meta/Pal2018.md",
     "0.00_References/0.02_References_meta/Patro2017.md"
   ]
