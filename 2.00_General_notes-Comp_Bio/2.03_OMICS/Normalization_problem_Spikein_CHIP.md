@@ -24,7 +24,7 @@ This is a collection of notes for the meeting with diego where we can address ho
 - *TMM* from edgeR or *RLE* from Deseq2 as more elaborate method to calculate normalization factors
 
 ## Questions
-- Is the problem related only to those experiments where the increase/decrease is great? LIke BAP1KO or P3/5KO?
+- Is the problem related only to those experiments where the increase/decrease is big? LIke BAP1KO or P3/5KO?
 - Are we really losing signal in background regions?
 - Their whole point is that they can minimize the impact of overcorrenting non-occupied genomic regions, is it really that important?.
 

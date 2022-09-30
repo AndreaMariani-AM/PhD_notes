@@ -57,5 +57,5 @@ gunzip -c cdna.fa.gz ncrna.fa.gz > cdna.ncrna.fa.gz
 	- Can derive multi-sample effective gene lengths
 
 ### [Bits of DNA blog post](https://liorpachter.wordpress.com/tag/quasi-mapping/)
-- In this blog post, done by [Lior Patcher](https://pachterlab.github.io/software.html) aka one of the creator of *kallisto*, there's an intresting discussin about Salmon and how to *not perform an DE analyses*. The *salmon team* replied [here](https://github.com/salmonteam/SalmonBlogResponse/blob/master/SalmonBlogResponse.md) and this is the *bits of DNA* [rebuttal](https://liorpachter.wordpress.com/2017/09/02/a-rebuttal/)
+- In this blog post, done by [Lior Pachter](https://pachterlab.github.io/software.html) aka one of the creator of *kallisto*, there's an intresting discussion about Salmon and how to *not perform an DE analyses*. The *salmon team* replied [here](https://github.com/salmonteam/SalmonBlogResponse/blob/master/SalmonBlogResponse.md) and this is the *bits of DNA* [rebuttal](https://liorpachter.wordpress.com/2017/09/02/a-rebuttal/)
 

@@ -4,48 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "07f2c30ecf859aa4",
+        "id": "359ebb04af85075b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2.00_General_notes-Comp_Bio/2.03_OMICS/Quasi-mapping.md",
+            "file": "2.00_General_notes-Comp_Bio/2.03_OMICS/Genome_Informatics.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "baa6a44305a7b5ab",
+        "id": "23a6d8005e939b01",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2.00_General_notes-Comp_Bio/2.04_Softwares/Aligners.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "b723c6834085ef95",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2.00_General_notes-Comp_Bio/2.04_Softwares/Salmon_RNAseq.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "c810c2b47cd59e37",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "0.00_References/0.01_Inbox/Srivastava2016.md",
+            "file": "2.00_General_notes-Comp_Bio/2.03_OMICS/Read_Mapping.md",
             "mode": "source",
             "source": false
           }
@@ -105,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.00_References/0.01_Inbox/Srivastava2016.md",
+                "file": "2.00_General_notes-Comp_Bio/2.03_OMICS/Genome_Informatics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c810c2b47cd59e37",
+  "active": "359ebb04af85075b",
   "lastOpenFiles": [
-    "2.00_General_notes-Comp_Bio/2.03_OMICS/Quasi-mapping.md",
+    "2.00_General_notes-Comp_Bio/2.03_OMICS/Read_Mapping.md",
+    "2.00_General_notes-Comp_Bio/2.03_OMICS/Genome_Informatics.md",
     "2.00_General_notes-Comp_Bio/2.04_Softwares/Salmon_RNAseq.md",
-    "2.00_General_notes-Comp_Bio/2.04_Softwares/Aligners.md",
     "2.00_General_notes-Comp_Bio/2.03_OMICS/RNAseq.md",
-    "2.00_General_notes-Comp_Bio/2.03_OMICS/HiC_pipeline.md",
-    "2.00_General_notes-Comp_Bio/2.02_Miscellaneous/SC_HT_220913.md",
-    "2.00_General_notes-Comp_Bio/2.03_OMICS/Normalization.md",
-    "0.00_References/0.01_Inbox/Kreibich2022.md",
-    "0.00_References/0.02_References_meta/Pal2018.md",
-    "0.00_References/0.02_References_meta/Patro2017.md"
+    "2.00_General_notes-Comp_Bio/2.03_OMICS/Quasi-mapping.md",
+    "2.00_General_notes-Comp_Bio/2.02_Miscellaneous/VanGalen_SEMMinars.md",
+    "2.00_General_notes-Comp_Bio/2.04_Softwares/Aligners.md",
+    "2.00_General_notes-Comp_Bio/2.02_Miscellaneous/().md",
+    "0.00_References/0.01_Inbox/Bartosovic2021.md",
+    "0.00_References/0.01_Inbox/Kreibich2022.md"
   ]
 }
