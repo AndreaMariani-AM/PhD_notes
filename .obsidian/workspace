@@ -33,7 +33,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0.00_References/0.01_Inbox/Bray2016.md",
+            "file": "2.00_General_notes-Comp_Bio/2.04_Softwares/Salmon_RNAseq.md",
             "mode": "source",
             "source": false
           }
@@ -46,6 +46,18 @@
           "type": "markdown",
           "state": {
             "file": "2.00_General_notes-Comp_Bio/2.03_OMICS/Pseudoalignment.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "b858b8bdb9af75f2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "0.00_References/0.01_Inbox/Bray2016.md",
             "mode": "source",
             "source": false
           }
@@ -105,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.00_References/0.01_Inbox/Bray2016.md",
+                "file": "2.00_General_notes-Comp_Bio/2.03_OMICS/Pseudoalignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,17 +135,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cf62e066ad46a1d2",
+  "active": "eb39212fd09be893",
   "lastOpenFiles": [
+    "0.00_References/0.01_Inbox/Bray2016.md",
+    "2.00_General_notes-Comp_Bio/2.03_OMICS/Pseudoalignment.md",
+    "2.00_General_notes-Comp_Bio/2.04_Softwares/Salmon_RNAseq.md",
     "0.00_References/0.01_Inbox/Kreibich2022.md",
     "2.00_General_notes-Comp_Bio/2.03_OMICS/Quasi-mapping.md",
     "2.00_General_notes-Comp_Bio/2.03_OMICS/Normalization.md",
-    "0.00_References/0.01_Inbox/Bray2016.md",
     "0.00_References/0.01_Inbox/Bartosovic2021.md",
     "0.00_References/0.01_Inbox/Bartosovic2022.md",
     "0.00_References/0.01_Inbox/Bonhoure2014.md",
-    "0.00_References/0.01_Inbox/Srivastava2016.md",
-    "1.00_Papers_List/00_Index_papers.md",
-    "0.00_References/0.01_Inbox/Ahlmann-Eltze2020.md"
+    "0.00_References/0.01_Inbox/Srivastava2016.md"
   ]
 }
