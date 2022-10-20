@@ -4,18 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "359ebb04af85075b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2.00_General_notes-Comp_Bio/2.07_Math/Proportionality.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "68af5231dde6d86f",
         "type": "leaf",
         "state": {
@@ -33,7 +21,31 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2.00_General_notes-Comp_Bio/2.04_Softwares/Salmon_RNAseq.md",
+            "file": "0.00_References/0.01_Inbox/Dimitrova2022.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "05f614bbf6a7453a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "0.00_References/0.01_Inbox/Bartosovic2021.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "6b1fb7cb5d0cd59a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2.00_General_notes-Comp_Bio/2.03_OMICS/Normalization.md",
             "mode": "source",
             "source": false
           }
@@ -45,7 +57,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2.00_General_notes-Comp_Bio/2.03_OMICS/Pseudoalignment.md",
+            "file": "0.00_References/0.01_Inbox/Bray2016.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "010aa6b3a9da9229",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2.00_General_notes-Comp_Bio/2.03_OMICS/Computational_Genomics.md",
             "mode": "source",
             "source": false
           }
@@ -117,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.00_General_notes-Comp_Bio/2.03_OMICS/Pseudoalignment.md",
+                "file": "0.00_References/0.01_Inbox/Bartosovic2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,17 +159,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eb39212fd09be893",
+  "active": "05f614bbf6a7453a",
   "lastOpenFiles": [
+    "2.00_General_notes-Comp_Bio/2.03_OMICS/Genome_Informatics.md",
+    "0.00_References/0.01_Inbox/Dimitrova2022.md",
+    "2.00_General_notes-Comp_Bio/2.04_Softwares/Salmon_RNAseq.md",
+    "2.00_General_notes-Comp_Bio/2.07_Math/Proportionality.md",
+    "2.00_General_notes-Comp_Bio/2.03_OMICS/Computational_Genomics.md",
     "0.00_References/0.01_Inbox/Bray2016.md",
     "2.00_General_notes-Comp_Bio/2.03_OMICS/Pseudoalignment.md",
-    "2.00_General_notes-Comp_Bio/2.04_Softwares/Salmon_RNAseq.md",
-    "0.00_References/0.01_Inbox/Kreibich2022.md",
-    "2.00_General_notes-Comp_Bio/2.03_OMICS/Quasi-mapping.md",
-    "2.00_General_notes-Comp_Bio/2.03_OMICS/Normalization.md",
-    "0.00_References/0.01_Inbox/Bartosovic2021.md",
-    "0.00_References/0.01_Inbox/Bartosovic2022.md",
-    "0.00_References/0.01_Inbox/Bonhoure2014.md",
-    "0.00_References/0.01_Inbox/Srivastava2016.md"
+    "2.00_General_notes-Comp_Bio/2.02_Miscellaneous/Meeting_diego.md",
+    "2.00_General_notes-Comp_Bio/2.02_Miscellaneous/Untitled.md",
+    "2.00_General_notes-Comp_Bio/2.03_OMICS/Normalization.md"
   ]
 }

@@ -16,10 +16,14 @@ This index contains all the papers that have been cited or for which notes have 
 - *ExplaiNN: interpretable and transparent neural networks for genomics*, [[Novakovsky2022]] ^7ac9bb
 - *Salmon provides fast and bias-aware quantification of transcript expression*, [[Patro2017]] ^1faca1
 - *Near-optimal probabilistic RNA-seq quantification*, [[Bray2016]] ^c0a7bb
+- *Exaggerated false positives by popular differential expression methods when analyzing human population samples*, [[Li2022]] ^6b8c22
 
 
 ## HiC
 - *Hi-C analysis: from data generation to integration*,[[Pal2018]] ^5b675a
+
+## Polycomb
+- *Distinct roles for CDK-Mediator in controlling Polycomb-dependent chromosomal interactions and priming genes for induction*, [[Dimitrova2022]] ^2cbb86
 
 ### ADD NOTES
 - *glmGamPoi- fitting Gamma-Poisson generalized linear models on single cell count data*, [[Ahlmann-Eltze2020]] ^d333d8
@@ -27,6 +31,7 @@ This index contains all the papers that have been cited or for which notes have 
 - *Multimodal chromatin profiling using nanobody-based single-cell CUT&Tag*, [[Bartosovic2022]] ^31610c
 - *Quantifying ChIP-seq data: a spiking method providing an internal reference for sample-to-sample normalization*, [[Bonhoure2014]] ^99cb15
 -  *Single molecule multi-omics reveals context-dependent regulation of enhancers by DNA methylation*, [[Kreibich2022]] ^336932
+- **
 
 
 

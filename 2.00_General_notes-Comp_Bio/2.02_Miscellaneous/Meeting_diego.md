@@ -1,6 +1,7 @@
 1) Dati padova
-2) Salmon
-3) ChIP CTCF reseq
-4) Disk space
-5) HiC
-6) RNAseq, transcripts level
+2) Adrian data, old + new (Suz12 and Jarid2 in 1, 2, 12, cat dead)
+3) Salmon
+4) ChIP CTCF reseq??
+5) Disk space
+6) HiC
+8) Reference for RNAseq and number of features
