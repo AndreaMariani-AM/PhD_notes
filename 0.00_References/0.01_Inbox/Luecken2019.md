@@ -27,7 +27,29 @@ Most of the info that i'll present for the single cell lecture are taken from he
 	- Single cell *isolation*, either *plate based* or *droplet based*. Droplet based methods capture each cell into its own *microfluidic droplet*. Multiple cells captured together -> *Doublets or Multiplets*, no cells captured or non viable cells -> *empty droplets/wells*. *Empty droplets* are very common for *droplet based method* given that they rely on a low concentration flow of input cells to control *doublet rates*.
 	- Each droplet contains the necessary chemicals to *break down* the cellular membrane and *perform* library construction. Given that these processes happen for cells in isolation it's possible to *label* each droplet with a *specific barcode*. Also, many experient label the molecule with a *Unique Molecular Identifier* (*UMI*). cDNA is amplified before sequencing.
 	- *UMI* allows us to distinguish between *amplified copies of the same mRNA molecule and reads from separate mRNA molecules transcribed from the same gene*.
-- Main start and also what is the *gold standard* as *raw data* for scRNAseq is *Read/Count matrix* 
+- Main start and also what is the *gold standard* as *raw data* for scRNAseq is *Read/Count matrix*. *Count matrix* is when UMis have been incorporated. Resulting matrix have the dimensions *number of barcodes* x *number of transcripts*.
+		- *barcode* instead of *cell* because all reads assigned to the same barecode may not correspond to reads from the same cell (tagging more cells --> *doublets*)
+
+#### Pre-processing
+- To ensure that all *cellular barcode* data correspond to *viable cells*.
+- Usually done on three main *covariates*:
+	- 1) *Number of genes per barcore*
+	- 2) *Number of counts per barcode*
+	- 3) *Fraction of counts from mitochondrial gene*
+	Two classic examples are: 
+		- barcodes with *low* count depth and *few* gene detected + *high* fraction of mito genes = cells with cytoplasmic mRNA that has leaked through a broken membrane and mito genes are intact. 
+		- Cells with *unexpectedly high* counts and genes detected are probably doublets.
+- *CONSIDERING ANY OF THESE THREE COVARIATES IN ISOLATION CAN LEAD TO MISINTERPRETATION OF SIGNALS* and in general thresholds should be as permissive as possible to avoid filtering out cell populations unintentionally.
+- *QC* at the *level of transcripts* involve the reduction of transctripts detected (~ 20k) by filtering out *genes* that *are not expressed* in at least X number of cells, thus not informative of the *cellular heterogeneity.*
+- *Ambient gene expression or contamination* referes to counts that *do not originate* from a barcoded cell but from other *lysed cells* whose mRNA have contaminated the library prep. In droplet based dataset this can be corrected by *modeling* ambient RNA expression profiles from *empty droplets*, which are abundant in this technology.
+
+#### Normalization
+- For each count in a count matrix, lots of steps are performed and difference in *identical* cells can be due just to *sampling* efffects. Most commonly used is *count depth scaling* also referred to as *CPM*, but very old
+- *Linear Global scaling*:
+	- *CPM*
+	- *CPM* that exclude genes that account for at least 5% of the total counts per cell
+	- *Scran pooling based* size factor estimation using a *linear regression* over genes. Top performer and also works great for *batch effect correction* and *differential analysis*.
+- *Non Linear normalization*
 ## Reference to chek out
 
 ## Cited by

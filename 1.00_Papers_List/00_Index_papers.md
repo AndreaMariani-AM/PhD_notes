@@ -17,6 +17,7 @@ This index contains all the papers that have been cited or for which notes have 
 - *Salmon provides fast and bias-aware quantification of transcript expression*, [[Patro2017]] ^1faca1
 - *Near-optimal probabilistic RNA-seq quantification*, [[Bray2016]] ^c0a7bb
 - *Exaggerated false positives by popular differential expression methods when analyzing human population samples*, [[Li2022]] ^6b8c22
+- *Computational principles and challenges in single-cell data integration*, [[Argelaguet2021]] ^cfe0fa
 
 
 ## HiC

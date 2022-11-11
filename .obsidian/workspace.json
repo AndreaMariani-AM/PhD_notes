@@ -44,48 +44,48 @@
             }
           },
           {
-            "id": "01950865cb66c7d6",
+            "id": "253ce2e47f942164",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.00_General_notes-Comp_Bio/2.03_OMICS/Genome_Informatics.md",
+                "file": "2.00_General_notes-Comp_Bio/2.05_Statistics/Z_score.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "250b96e593c30de3",
+            "id": "c3fa480ee0da2502",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.00_General_notes-Comp_Bio/2.03_OMICS/Genome_Informatics.md",
+                "file": "0.00_References/0.01_Inbox/Luecken2019.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0d1a1bd6cd146872",
+            "id": "55b6a8df86c58c72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.00_Papers_List/00_Index_papers.md",
+                "file": "0.00_References/0.01_Inbox/Argelaguet2021.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "371f82133e2646d6",
+            "id": "0bcc84ce81669b68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.00_General_notes-Comp_Bio/2.03_OMICS/Pseudoalignment.md",
+                "file": "2.00_General_notes-Comp_Bio/2.02_Miscellaneous/TO_READ.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,20 +169,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
   "active": "12d22e1b19049544",
   "lastOpenFiles": [
-    "2.00_General_notes-Comp_Bio/2.03_OMICS/Computational_Genomics.md",
+    "2.00_General_notes-Comp_Bio/2.02_Miscellaneous/TO_READ.md",
     "0.00_References/0.01_Inbox/Luecken2019.md",
-    "2.00_General_notes-Comp_Bio/2.03_OMICS/Genome_Informatics.md",
-    "2.00_General_notes-Comp_Bio/2.05_Statistics/Benjamini-Hochberg _Theorem.md",
-    "0.00_References/0.01_Inbox/Dimitrova2022.md",
-    "0.00_References/0.02_References_meta/Li2022.md",
+    "2.00_General_notes-Comp_Bio/2.05_Statistics/Z_score.md",
+    "2.00_General_notes-Comp_Bio/2.05_Statistics/Uniform_Manifold_Approximation_&_Projection.md",
+    "2.00_General_notes-Comp_Bio/2.03_OMICS/scRNAseq.md",
+    "0.00_References/0.01_Inbox/Argelaguet2021.md",
     "1.00_Papers_List/00_Index_papers.md",
-    "0.00_References/0.01_Inbox/Bray2016.md",
-    "0.00_References/0.01_Inbox/Srivastava2016.md",
-    "2.00_General_notes-Comp_Bio/2.02_Miscellaneous/Meeting_diego.md"
+    "2.00_General_notes-Comp_Bio/2.03_OMICS/Computational_Genomics.md",
+    "2.00_General_notes-Comp_Bio/2.03_OMICS/Genome_Informatics.md",
+    "2.00_General_notes-Comp_Bio/2.05_Statistics/Benjamini-Hochberg _Theorem.md"
   ]
 }
