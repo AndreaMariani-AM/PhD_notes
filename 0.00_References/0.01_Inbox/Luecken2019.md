@@ -49,7 +49,11 @@ Most of the info that i'll present for the single cell lecture are taken from he
 	- *CPM*
 	- *CPM* that exclude genes that account for at least 5% of the total counts per cell
 	- *Scran pooling based* size factor estimation using a *linear regression* over genes. Top performer and also works great for *batch effect correction* and *differential analysis*.
-- *Non Linear normalization*
+- *Non Linear normalization* can account for more complex unwanted variation:
+	- *Parametric modelliing* of count data
+	- *Others*
+	-In general, *non-linear* methods outperform *linear* methods especially where strong *batch effect* is present.
+- Typically after nromalization, data matrices are  $\large log(x +1)$ transformed
 ## Reference to chek out
 
 ## Cited by
