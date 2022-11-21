@@ -25,10 +25,10 @@ Most of the info that i'll present for the single cell lecture are taken from he
 - The choice of language *R or Python* usually means the choice of most *methods* (think about *Seurat and Scanpy*).
 - Steps that happen before *Count matrix*:
 	- Single cell *isolation*, either *plate based* or *droplet based*. Droplet based methods capture each cell into its own *microfluidic droplet*. Multiple cells captured together -> *Doublets or Multiplets*, no cells captured or non viable cells -> *empty droplets/wells*. *Empty droplets* are very common for *droplet based method* given that they rely on a low concentration flow of input cells to control *doublet rates*.
-	- Each droplet contains the necessary chemicals to *break down* the cellular membrane and *perform* library construction. Given that these processes happen for cells in isolation it's possible to *label* each droplet with a *specific barcode*. Also, many experient label the molecule with a *Unique Molecular Identifier* (*UMI*). cDNA is amplified before sequencing.
-	- *UMI* allows us to distinguish between *amplified copies of the same mRNA molecule and reads from separate mRNA molecules transcribed from the same gene*.
+	- Each droplet contains the necessary chemicals to *break down* the cellular membrane and *perform* library construction. Given that these processes happen for cells in isolation it's possible to *label* each droplet with a *specific barcode*. Also, many experiments label the molecule with a *Unique Molecular Identifier* (*UMI*). cDNA is amplified before sequencing.
+	- *UMI* allows us to distinguish between *amplified copies of the same mRNA molecule (same barcode and UMI) and reads from separate mRNA molecules transcribed from the same gene (same barcode, different UMI)*. Each 
 - Main start and also what is the *gold standard* as *raw data* for scRNAseq is *Read/Count matrix*. *Count matrix* is when UMis have been incorporated. Resulting matrix have the dimensions *number of barcodes* x *number of transcripts*.
-		- *barcode* instead of *cell* because all reads assigned to the same barecode may not correspond to reads from the same cell (tagging more cells --> *doublets*)
+		- *barcode* instead of *cell* because all reads assigned to the same barcode may not correspond to reads from the same cell (tagging more cells --> *doublets*)
 
 #### Pre-processing
 - To ensure that all *cellular barcode* data correspond to *viable cells*.
@@ -51,7 +51,7 @@ Most of the info that i'll present for the single cell lecture are taken from he
 	- *CPM* that exclude genes that account for at least 5% of the total counts per cell
 	- *Scran pooling based* size factor estimation using a *linear regression* over genes. Top performer and also works great for *batch effect correction* and *differential analysis*.
 - *Non Linear normalization* can account for more complex unwanted variation:
-	- *Parametric modelliing* of count data
+	- *Parametric modelling* of count data
 	- *Others*
 	-In general, *non-linear* methods outperform *linear* methods especially where strong *batch effect* is present.
 - Typically after nromalization, data matrices are  $\large log(x +1)$ transformed
@@ -88,7 +88,23 @@ Most of the info that i'll present for the single cell lecture are taken from he
 - *HVG*, Higly variable genes, are often used and depending on the task at end, ~1 to 5K of gene are usually kept. A simple method to select them is implemented both in *Seurat* and *Scanpy*. and consists of binning the genes based on their mean expressio and only the genes with the *highest variance-to-mean ration* are selected. Optimally they should be selected after *technical data correction*, to avoid selecting genes highly variables only due to  e.g. batch effects
 
 ##### Dimensionality Reduction
+- Alghoritms that *embed expression matrix* into a low dimensional space, designed to *capture the underlying structure* of the data in as few dimensions as possible. scRNA-seq datasets are *inherently low dimensional*, aka the *biological manifold* on which cellular expression profiles lie, cna be sufficiently described by far fewer dimensions that the number of genes. Two main goals are: *visualization* and *summarization*.
+- For *visualization*, 2 or 3 dimensions are used to "accurately" describe the dataset, while *summarization* hasn't a fixed number of components, but higher compenents become less important in describing variability of the dataset.
+- Reduced dimension are usually obtained  through *linear* or *non-linear combinations of features space dimensions*, aka *gene expression vectors*.
+- *Summarization methods*:
+	- *PCA* : *linear* approach, generates reduced dimensions by *maximizing the captured residuals variance* in each further dimension. Doesn't capture structure of the data as good as *non-linear* methods. Basis for *clustering/trajectory* methods. Distances in the reduced dimensional space have a consistent interpretation in all regions of the space.
+	- *Diffusion Maps* : Diffusion components emphasize *transitions* in the data, used when continuos processes are of interests (i.e. differentiation).
 
+##### Visualization
+- Standard practice to use *non-linear* dimensionality reduction methods. *t-SNE* was very common, captures local similarities at the expenses of global structure. Gold standard now is [[Uniform_Manifold_Approximation_&_Projection]] that uses *ForceAtlas2*, a *force-directed layout algorithm*.  [[Uniform_Manifold_Approximation_&_Projection]] is very fast and scales really good to a large number of cells.
+
+#### Stages of Preprocessed data
+
+
+
+
+## Notes for the lecture
+- Association barcode to cells
 
 ## Reference to chek out
 ## Cited by
