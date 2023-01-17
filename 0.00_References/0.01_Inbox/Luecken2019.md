@@ -26,7 +26,7 @@ Most of the info that i'll present for the single cell lecture are taken from he
 - Steps that happen before *Count matrix*:
 	- Single cell *isolation*, either *plate based* or *droplet based*. Droplet based methods capture each cell into its own *microfluidic droplet*. Multiple cells captured together -> *Doublets or Multiplets*, no cells captured or non viable cells -> *empty droplets/wells*. *Empty droplets* are very common for *droplet based method* given that they rely on a low concentration flow of input cells to control *doublet rates*.
 	- Each droplet contains the necessary chemicals to *break down* the cellular membrane and *perform* library construction. Given that these processes happen for cells in isolation it's possible to *label* each droplet with a *specific barcode*. Also, many experiments label the molecule with a *Unique Molecular Identifier* (*UMI*). cDNA is amplified before sequencing.
-	- *UMI* allows us to distinguish between *amplified copies of the same mRNA molecule (same barcode and UMI) and reads from separate mRNA molecules transcribed from the same gene (same barcode, different UMI)*. Each 
+	- *UMI* allows us to distinguish between *amplified copies of the same mRNA molecule (same barcode and UMI) and reads from separate mRNA molecules transcribed from the same gene (same barcode, different UMI)*. 
 - Main start and also what is the *gold standard* as *raw data* for scRNAseq is *Read/Count matrix*. *Count matrix* is when UMis have been incorporated. Resulting matrix have the dimensions *number of barcodes* x *number of transcripts*.
 		- *barcode* instead of *cell* because all reads assigned to the same barcode may not correspond to reads from the same cell (tagging more cells --> *doublets*)
 

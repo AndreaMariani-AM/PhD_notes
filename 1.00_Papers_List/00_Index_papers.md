@@ -25,6 +25,7 @@ This index contains all the papers that have been cited or for which notes have 
 
 ## Polycomb
 - *Distinct roles for CDK-Mediator in controlling Polycomb-dependent chromosomal interactions and priming genes for induction*, [[Dimitrova2022]] ^2cbb86
+- *Capturing the Onset of PRC2-Mediated Repressive Domain Formation*, [[Oksuz2018]] ^b80ca6
 
 ### ADD NOTES
 - *glmGamPoi- fitting Gamma-Poisson generalized linear models on single cell count data*, [[Ahlmann-Eltze2020]] ^d333d8

@@ -23,10 +23,10 @@ Notes Vectors. Starts here at [[Linear_algebra_lesson]]. This is the first lesso
 	r.s = $|r|$ $|s|$ * $\cos\theta$ . 
 	if two vectors are orthogonal, $\theta$ betwenn them is 90 degrees and cosin is 0, the dot product is zero. If they go in the same direction and $\theta$ = 0 degrees, then cosin is 1 and it's just $|r| |s|$. If $\theta$ = 180, cosin is -1, and the dot product is - $|r| |s|$.
 - *Projection* is the "shadow" of one vector onto the other as if i have a triangle and one side falls at 90 degrees onto the other one. In the dot product r.s = $|r|$ $|s|$ * $\cos\theta$ the projection of *s* on *r* is $|s|$ * $\cos\theta$ , so now r.s = $|r|$ * projection of s. $|s|$ * $\cos\theta$ gives me a number, a scalar projection and that's why the dot product it's also called the *projection product* because it takes the projection of one vector onto another.
-- *Vector projection* is defined as the dot product divided by mod r squared and all multiplied by vector r       $r * \frac{r\cdot s}{|r|^2}$ 
+- *Vector projection* is defined as the dot product divided by mod r squared and all multiplied by vector r $\Large r * \frac{r\cdot s}{|r|^2}$ 
 - *Basis vectors* are the vectors used to define the coordinate space in which we work. Given a vector r and basis vectors ei and ej, we can describe the vector r using the dot product with a new set of basis vector, bi and bj, only if those are orthogonals ($\theta$ = 90 degrees) to each other. Otherwise i'd need a matrix to do *transformation of axes*.
 - *Basis* is a set of *n* vectors:
 	- are not liner combinations of each other (aka *linearly independent*)
 	- span the space they describe
 	- the space is n-dimentional
-Use as much as possible *orthonormal basis vector sets* aka at 90 degrees and of length 1 (unit)
+Use as much as possible *orthonormal basis vector sets* aka at 90 degrees and of length 1 (unit). Classical basis vectors of the space are $\large x = \begin{bmatrix} 0 \\ 1\end{bmatrix}$ and $\large y = \begin{bmatrix} 1 \\ 0\end{bmatrix}$
