@@ -28,6 +28,8 @@ where $A$ = Matrix, $r$ = the vector that the matrix operates on and $s$ = the r
 - They way to find the *inverse* of a matrix $A$, let's call it $B$, in the equation $$A B = I$$
 Is to get the *Identity matrix* for *A* and the *indentity Matrix I* will be transformed into the *inverse of A, aka B*. Probably slightly different from what you'd learn in school but it's the fastest/easist way (*Elimination + back substitution*) when done computationally.
 This is called [Decomposition Process, Matrix Decomposition or Factorization](https://en.wikipedia.org/wiki/Matrix_decomposition)
+
+
 ## Questions
 - Item
 

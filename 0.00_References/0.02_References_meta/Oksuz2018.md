@@ -24,7 +24,13 @@ They define *nucleation* and *spreading* regions for *PRC2*:
 - *EED* is necessary to stabilize PRC2. Disruption of *EED-H3K27me3* reduces the H3K27me3 levels. If the aromatic ring is mutated it shows a *LOSS* of *H3k27me2/3* and a *GAIN* of *H3K36me2* (associated with *active transcription*). Thought H3K27me3 was stil detectable. 
 - At discrete regions( ~ 200 where 73% are $\pm$ 5kb of the *TSS*) with larger polycomb domains, *H3K27me3* was maintened ~ like the *WT*. 
 - *EED-H3k27me3* interaction is essential for spreading me3 *in cis along the chromosome*.
-- *H3K27me3* first deposits at nucleations sites (some *CpGi*), while *H3K27me2* accumulates less at Nucleation sites and more proximal at 12hr. At 36hr, *Me3* accumulates more at nucleation sites and also spreads across the chromosome. *Me2* anticorrelates with Me3 and lose the mark at the nucleation sites and spreads MORE at proximal. *EED mutants* shows no *Me3* and *Me2* is retained and accumulates at Nucleation sites much like *Me3* in WT conditions, but ineficiently at proximal sites
+- *H3K27me3* first deposits at nucleations sites (some *CpGi*), while *H3K27me2* accumulates less at Nucleation sites and more proximal at 12hr. At 36hr, *Me3* accumulates more at nucleation sites and also spreads across the chromosome. *Me2* anticorrelates with Me3 and lose the mark at the nucleation sites and spreads MORE at proximal. *EED mutants* shows no *Me3* and *Me2* is retained and accumulates at Nucleation sites much like *Me3* in WT conditions, but ineficiently at proximal sites.
+- *EED aromatic cage* isn't required for *initial PRC2* recruitment but rather *essential* for *catalysis* of di- tri-methy reaction at nucleation sites.
+- *MTF2* and *JARID2* localize to *GC-rich* motifs.
+- Deletion of *Nucleation sites* results in a *delayed* `cis` deposition of H3K27me3, which is almost completely recovered after 36h. Other sites retaining nucleation sites were not affected --> *Nucleation sites can facilitate the spreading in cis of Me3*.
+- *Spatial clusters* can facilitate the spreading of *Me3* activity via *long-range chromatin contacts*.  
+
+
 ## Reference to chek out
 
 ## Cited by

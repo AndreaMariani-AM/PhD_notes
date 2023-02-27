@@ -98,13 +98,6 @@ Most of the info that i'll present for the single cell lecture are taken from he
 ##### Visualization
 - Standard practice to use *non-linear* dimensionality reduction methods. *t-SNE* was very common, captures local similarities at the expenses of global structure. Gold standard now is [[Uniform_Manifold_Approximation_&_Projection]] that uses *ForceAtlas2*, a *force-directed layout algorithm*.  [[Uniform_Manifold_Approximation_&_Projection]] is very fast and scales really good to a large number of cells.
 
-#### Stages of Preprocessed data
-
-
-
-
-## Notes for the lecture
-- Association barcode to cells
 
 ## Reference to chek out
 ## Cited by

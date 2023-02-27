@@ -26,6 +26,11 @@ This index contains all the papers that have been cited or for which notes have 
 ## Polycomb
 - *Distinct roles for CDK-Mediator in controlling Polycomb-dependent chromosomal interactions and priming genes for induction*, [[Dimitrova2022]] ^2cbb86
 - *Capturing the Onset of PRC2-Mediated Repressive Domain Formation*, [[Oksuz2018]] ^b80ca6
+- 
+## Methods
+- *Efficient combinatorial targeting of RNA transcripts in single cells with Cas13 RNA Perturb-seq*, [[Wessels2023]] ^9c925d
+- *Spatial-CUT&Tag: Spatially resolved chromatin modification profiling at the cellular level*, [[Deng,Bartosovic2022]] ^7eaa22
+
 
 ### ADD NOTES
 - *glmGamPoi- fitting Gamma-Poisson generalized linear models on single cell count data*, [[Ahlmann-Eltze2020]] ^d333d8
