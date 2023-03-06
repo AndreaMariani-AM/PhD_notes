@@ -1,3 +1,7 @@
 1) [Autoencoders](https://towardsdatascience.com/understanding-autoencoders-with-an-example-a-step-by-step-tutorial-a79d2ea2945e)
 2) [PCA looks triangular](https://towardsdatascience.com/why-pca-looks-triangular-a642daac721a)
-3) 
+3) [scRNAseq depth norm + variance stabilizing](https://www.biorxiv.org/content/10.1101/2022.05.06.490859v1.full)
+4) [UMAP is awful](https://www.biorxiv.org/content/10.1101/2021.08.25.457696v4)
+5) [Comparison transformation scRNAseq](https://www.biorxiv.org/content/10.1101/2021.06.24.449781v4)
+6) [Nascent RNA transcriptiomic techniques](https://www.nature.com/articles/s41576-019-0159-6)
+7) [Normalizing scRNAseq](https://www.nature.com/articles/nmeth.4292%7B)
