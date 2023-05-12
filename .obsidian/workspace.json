@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "682d107076af4956",
+        "id": "f42224c5b395cdc3",
         "type": "tabs",
         "children": [
           {
-            "id": "0e5ea5e52ef1a914",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.00_Papers_List/00_Index_papers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "534cbf7ab0e15850",
+            "id": "3b0ae1ed3703abc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,9 +18,32 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "785cad51ed99c7f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.00_General_notes-Comp_Bio/2.02_Miscellaneous/Meeting_Diego.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a5d44e9153a22cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.00_General_notes-Comp_Bio/TO_WATCH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -69,6 +80,14 @@
                 "extraContext": true,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "0080ea3f76747cd7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -119,15 +138,26 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "534cbf7ab0e15850",
+  "active": "3b0ae1ed3703abc2",
   "lastOpenFiles": [
-    "1.00_Papers_List/00_Index_papers.md",
-    "2.00_General_notes-Comp_Bio/2.02_Miscellaneous/TO_DO_LIST.md",
-    "2.00_General_notes-Comp_Bio/2.02_Miscellaneous/TO DO LIST.md",
     "2.00_General_notes-Comp_Bio/2.02_Miscellaneous/TO_READ.md",
-    "2.00_General_notes-Comp_Bio/2.03_OMICS/scRNAseq.md",
+    "2.00_General_notes-Comp_Bio/2.02_Miscellaneous/Meeting_Diego.md",
+    "2.00_General_notes-Comp_Bio/2.02_Miscellaneous/TO_DO_LIST.md",
+    "2.00_General_notes-Comp_Bio/2.03_OMICS/Computational_Genomics.md",
+    "2.00_General_notes-Comp_Bio/TO_WATCH.md",
+    "2.00_General_notes-Comp_Bio/2.05_Statistics/Eigenvector.md",
+    "2.00_General_notes-Comp_Bio/2.02_Miscellaneous/simo.md",
+    "2.00_General_notes-Comp_Bio/2.02_Miscellaneous/ATTACK_PLAN.md",
+    "2.00_General_notes-Comp_Bio/2.02_Miscellaneous/SC_HT_220913.md",
     "2.00_General_notes-Comp_Bio/2.02_Miscellaneous/VanGalen_SEMMinars.md",
     "0.00_References/0.01_Inbox/Ahlmann-Eltze2020.md",
+    "2.00_General_notes-Comp_Bio/2.06_Unix/Miscellaneous.md",
+    "2.00_General_notes-Comp_Bio/2.03_OMICS/Genome_Informatics.md",
+    "2.00_General_notes-Comp_Bio/2.06_Unix/Symbolic_Hard_Links.md",
+    "0.00_References/0.02_References_meta/Wessels2023.md",
+    "1.00_Papers_List/00_Index_papers.md",
+    "2.00_General_notes-Comp_Bio/2.02_Miscellaneous/TO DO LIST.md",
+    "2.00_General_notes-Comp_Bio/2.03_OMICS/scRNAseq.md",
     "0.00_References/0.01_Inbox/Argelaguet2021.md",
     "0.00_References/0.01_Inbox/Bartosovic2021.md",
     "0.00_References/0.01_Inbox/Bartosovic2022.md",
@@ -135,15 +165,6 @@
     "0.00_References/0.01_Inbox/Bray2016.md",
     "0.00_References/0.01_Inbox/Corrigan2016.md",
     "0.00_References/0.01_Inbox/Deng,Bartosovic2022.md",
-    "0.00_References/0.01_Inbox/Dimitrova2022.md",
-    "0.00_References/0.01_Inbox/Kreibich2022.md",
-    "0.00_References/0.02_References_meta/Luecken2019.md",
-    "0.00_References/0.01_Inbox/Srivastava2016.md",
-    "2.00_General_notes-Comp_Bio/2.04_Softwares/Seurat.md",
-    "2.00_General_notes-Comp_Bio/2.03_OMICS/Computational_Genomics.md",
-    "2.00_General_notes-Comp_Bio/2.04_Softwares/Salmon_RNAseq.md",
-    "2.00_General_notes-Comp_Bio/2.02_Miscellaneous/simo.md",
-    "0.00_References/0.02_References_meta/Wessels2023.md",
-    "2.00_General_notes-Comp_Bio/2.03_OMICS/Normalization.md"
+    "0.00_References/0.01_Inbox/Dimitrova2022.md"
   ]
 }
